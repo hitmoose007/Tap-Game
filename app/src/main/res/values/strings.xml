@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tap game</string>
+    <string name="tapButtonText">Tap !</string>
+    <string name="textCounterView">Score 0</string>
+    <string name="startButton">Tap to Start!</string>
+    <string name="TimerText">Time left: 10 seconds</string>
+    <string name="high_scores">High Scores:</string>
+    <string name="highscoresHardcodedText">HighScores</string>
+    <string name="nameHardcoded">Name</string>
+</resources>
